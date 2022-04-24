@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSACCS</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+
+<header>
+  <div class="header">
+  <a href="index.html">
+   <svg width="5" height="20">
+<img src='mungus.svg' alt='Image'/>
+</a>
+</svg>
+
+    <strong>BEST SMURFS</strong>
+	</div>
+ </header>
+ 
+ <div class="pitch">
+ <h1>Fast and easy smurf accounts</h1>
+ </div>
+  
+ <div class="pitch2">
+ <h5>We offer affordable unranked accounts for various regions with instant delivery</h5>
+ </div>
+  
+  <div class="asdf">
+  <table style="width:100%">
+  
+  <tr>
+	<td> <img src="eune.png"> </td>
+    <td> <img src="euw.png"> </td>
+	<td> <img src="na.png"> </td>
+	<td> <img src="lan.png"> </td>
+	<td> <img src="tr.png"> </td>
+  </tr>
+  <tr>
+    <th>EUNE</th>
+    <th>EUW</th>
+    <th>NA</th>
+    <th>LAN</th>
+    <th>TR</th>
+  </tr>
+  
+  <tr>
+    <td>LVL30</td>
+	<td>LVL30</td>
+	<td>LVL30</td>
+	<td>LVL30</td>
+	<td>LVL30</td>
+  </tr>
+  
+  <tr>
+ 	<td>BE 12700-22300</td>
+	<td>BE 10900-19600</td>
+	<td>BE 9600-12600</td>
+	<td>BE 14100-24700</td>
+	<td>BE 18300-25600</td>
+  </tr>
+  
+  <tr>
+    <td>5-10 Champions</td>
+	<td>5-10 Champions</td>
+	<td>5-10 Champions</td>
+	<td>5-10 Champions</td>
+	<td>5-10 Champions</td>
+  </tr>
+  
+  <tr>
+	<td>LIFETIME WARRANTY</td>
+	<td>LIFETIME WARRANTY</td>
+	<td>LIFETIME WARRANTY</td>
+	<td>LIFETIME WARRANTY</td>
+	<td>LIFETIME WARRANTY</td>
+  </tr>
+  
+ <tr>
+	<td> <a href="Payment.html" class="btn btn-success my-2">BUY NOW 4,5€</a> </td>
+	<td> <a href="Payment.html" class="btn btn-success my-2">BUY NOW 3,6€</a> </td>
+	<td> <a href="Payment.html" class="btn btn-success my-2">BUY NOW 3,2€</a> </td>
+	<td> <a href="Payment.html" class="btn btn-success my-2">BUY NOW 5,0€</a> </td>
+	<td> <a href="Payment.html" class="btn btn-success my-2">BUY NOW 6,0€</a> </td>
+ </tr>
+ </table>
+ </div>
+  
+ <div class="footer">
+	<div class="row">
+		<div class="col-sm-6">
+		<a href="FAQ.html"><strong> FAQ </strong></a>
+		</div>
+		<div class="col-sm-6">
+		<a href="Contact_us.html"><strong>Contact Us</strong></a>
+		</div>
+	</div>
+ </div>
+  
+  </body>
+  </html>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="112.000000pt" height="112.000000pt" viewBox="0 0 112.000000 112.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.10, written by Peter Selinger 2001-2011
+</metadata>
+<g transform="translate(0.000000,112.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M525 1063 c-76 -19 -135 -164 -205 -503 -22 -107 -43 -206 -46 -219
+-5 -22 -7 -23 -68 -16 -58 6 -65 4 -94 -20 -55 -46 -32 -107 50 -140 36 -14
+61 -16 144 -10 87 6 109 11 154 37 l52 30 -7 46 c-15 94 -13 105 25 124 22 12
+58 18 98 18 53 0 67 -4 87 -25 27 -26 29 -40 15 -99 -9 -43 -23 -56 -59 -56
+-13 0 -43 -10 -67 -22 -40 -20 -44 -25 -44 -59 0 -35 3 -39 53 -63 79 -39 168
+-45 256 -16 38 12 83 34 101 49 l32 27 6 181 c9 313 -21 538 -84 633 -29 44
+-98 83 -172 99 -52 11 -188 13 -227 4z m193 -25 c76 -9 100 -16 132 -39 51
+-37 63 -57 95 -154 31 -96 49 -319 43 -525 -5 -169 -13 -188 -88 -214 -116
+-41 -310 -17 -310 38 0 33 29 54 90 66 30 6 57 16 62 23 4 6 10 35 14 63 7 61
+-8 102 -46 121 -32 16 -131 17 -182 1 -56 -16 -71 -44 -59 -99 18 -75 15 -87
+-26 -108 -21 -10 -76 -24 -123 -30 -101 -13 -179 3 -205 43 -40 60 43 94 151
+61 19 -6 23 0 37 52 8 32 23 101 33 153 31 174 71 341 94 391 11 24 15 26 49
+18 48 -11 81 -11 81 0 0 11 -98 34 -111 25 -18 -11 -8 14 22 55 49 69 83 77
+247 59z"/>
+<path d="M548 963 c7 -3 16 -2 19 1 4 3 -2 6 -13 5 -11 0 -14 -3 -6 -6z"/>
+<path d="M575 909 c-4 -6 -5 -13 -2 -16 7 -7 27 6 27 18 0 12 -17 12 -25 -2z"/>
+<path d="M710 885 c-7 -8 -11 -15 -9 -16 2 0 38 -1 79 -2 53 -2 83 -8 103 -21
+26 -18 27 -18 27 1 0 38 -31 53 -112 53 -55 0 -79 -4 -88 -15z"/>
+<path d="M608 864 c12 -8 27 -12 34 -8 8 5 6 10 -8 15 -35 14 -50 10 -26 -7z"/>
+<path d="M503 852 c-25 -16 3 -35 41 -28 41 8 47 21 14 30 -30 8 -40 7 -55 -2z"/>
+<path d="M450 835 c0 -9 6 -12 15 -9 8 4 15 10 15 15 0 5 -7 9 -15 9 -8 0 -15
+-7 -15 -15z"/>
+<path d="M665 840 c-9 -15 5 -32 21 -26 8 3 14 -1 14 -9 0 -8 4 -15 10 -15 5
+0 7 7 3 16 -5 14 -3 15 15 5 13 -7 22 -8 22 -2 0 5 2 15 5 23 4 9 -7 14 -40
+15 -24 1 -47 -2 -50 -7z"/>
+<path d="M775 821 c-7 -12 25 -30 42 -24 6 2 14 0 17 -6 4 -6 17 -6 38 1 l32
+11 -34 13 c-43 15 -87 17 -95 5z"/>
+<path d="M625 747 c-4 -10 -5 -21 -1 -24 10 -10 18 4 13 24 -4 17 -4 17 -12 0z"/>
+<path d="M550 730 c0 -5 5 -10 10 -10 6 0 10 5 10 10 0 6 -4 10 -10 10 -5 0
+-10 -4 -10 -10z"/>
+<path d="M670 734 c0 -4 8 -13 17 -20 25 -18 15 -23 -46 -25 -52 -2 -53 -3
+-27 -16 30 -16 95 -8 103 12 7 19 -15 55 -32 55 -8 0 -15 -3 -15 -6z"/>
+<path d="M540 690 c0 -5 7 -10 15 -10 8 0 15 5 15 10 0 6 -7 10 -15 10 -8 0
+-15 -4 -15 -10z"/>
+<path d="M824 638 l-19 -23 23 19 c21 18 27 26 19 26 -2 0 -12 -10 -23 -22z"/>
+<path d="M595 640 c3 -5 10 -10 16 -10 5 0 9 5 9 10 0 6 -7 10 -16 10 -8 0
+-12 -4 -9 -10z"/>
+<path d="M743 634 c9 -3 17 -10 17 -15 0 -11 -225 -9 -242 2 -12 8 -48 -6 -48
+-19 0 -4 28 -8 63 -8 34 -1 94 -2 133 -4 46 -1 79 3 93 12 26 16 22 32 -10 35
+-14 1 -17 0 -6 -3z"/>
+<path d="M564 561 c7 -10 94 -21 113 -14 32 12 8 23 -53 23 -36 0 -63 -4 -60
+-9z"/>
+</g>
+</svg>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSACCS</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+
+<header>
+  <div class="header">
+  <a href="index.html">
+   <svg width="5" height="20">
+<img src='mungus.svg' alt='Image'/>
+</a>
+</svg>
+
+    <strong>BEST SMURFS</strong>
+	</div>
+ </header>
+ 
+ <div class="pitch">
+ <h1>Fast and easy smurf accounts</h1>
+ </div>
+  
+ <div class="pitch2">
+ <h5>We offer affordable unranked accounts for various regions with instant delivery</h5>
+ </div>
+ 
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+			Email: <input type="text" name="email" required>
+			</div>
+		</div>
+		
+		
+		<div class="row">
+			<div class="col-sm-6">
+				Card Number:<input type="text" name="Card Number" required>
+			</div>
+			
+			<div class="col-sm-6">
+				Card Holder:<input type="text" name="Card Holder" required>
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="col-sm-6">
+					CVV:<input type="password" name="Card CVV" required>
+			</div>
+			<div class="col-sm-6">
+				Expiration Date:
+				<select id="Month" name="Month">
+					<option value="01">01</option>
+					<option value="02">02</option>
+					<option value="03">03</option>
+					<option value="04">04</option>
+					<option value="05">05</option>
+					<option value="06">06</option>
+					<option value="07">07</option>
+					<option value="08">08</option>
+					<option value="09">09</option>
+					<option value="10">10</option>
+					<option value="11">11</option>
+					<option value="12">12</option>
+					</select> 
+					<select id="Year" name="Year">
+					<option value="2022">2022</option>
+					<option value="2023">2023</option>
+					<option value="2024">2024</option>
+					<option value="2025">2025</option>
+					<option value="2026">2026</option>
+					</select> 
+			</div>
+			
+			<div class="row">
+				<div class="col-sm-12">
+					<input type="submit" value="Buy Now">
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+
+	</body>
+	</html>
+			
+			
+			
+	
+td {
+  text-align: center;
+}
+tr {
+  text-align: center;
+}
+
+body {background-color:#f4f8fb;}
+
+.footer {
+ background-color:#f4f8fb ;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align:center;
+  }
+  
+ .pitch {
+  text-align:center;
+}
+
+.pitch2 {
+  text-align:center;
+}
+
+.asdf {
+  padding: 2%;
+}
+
+.header {
+  font-size:30px;
+}
+  
+h1{
+text-align: center;
+padding: 1%;
+}
+
+h4{
+text-align: center;
+padding: 1%;
+}
+p{
+text-align: center;
+}
+.kartta{
+text-align: center;	
+}
+.container{
+  padding: 2%;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSACCS</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+
+<header>
+  <div class="header">
+  <a href="index.html">
+   <svg width="5" height="20">
+<img src='mungus.svg' alt='Image'/>
+</a>
+</svg>
+
+    <strong>BEST SMURFS</strong>
+	</div>
+ </header>
+ 
+ <div class="pitch">
+ <h1>Fast and easy smurf accounts</h1>
+ </div>
+  
+ <div class="pitch2">
+ <h5>We offer affordable unranked accounts for various regions with instant delivery</h5>
+ </div>
+ 
+ <h1><b>Contact Us:</b></h1>
+ <h4>Phone: +35844123986</h4>
+ <h4>Email: Best.smurfs@gmail.com</h4>
+ <h4>Location: Svalbard, Longyearbyen 9170</h4>
+ <div class="kartta">
+ <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9213.384169008508!2d15.490148947577987!3d78.22268396496251!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x459c52d84f4557df%3A0xda86b2caa16495ec!2sLongyearbyen%209170%2C%20Huippuvuoret!5e0!3m2!1sfi!2sfi!4v1650731997765!5m2!1sfi!2sfi" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+ </div>
+</body>
+</html>
+  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSACCS</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+
+<header>
+  <div class="header">
+  <a href="index.html">
+   <svg width="5" height="20">
+<img src='mungus.svg' alt='Image'/>
+</a>
+</svg>
+
+    <strong>BEST SMURFS</strong>
+	</div>
+ </header>
+ 
+ <div class="pitch">
+ <h1>Fast and easy smurf accounts</h1>
+ </div>
+  
+ <div class="pitch2">
+ <h5>We offer affordable unranked accounts for various regions with instant delivery</h5>
+ </div>
+ 
+ <h1><b>Frequently Asked Questions</b></h1>
+ <h4><b>- What is Lifetime Warranty?</b></h4>
+ <p><i>Lifetime warranty means if your account was to get banned through any defect or fault of our own, you will be given a compensation acoount, free of charge.</i></p>
+ <h4><b>- Why you should buy smurf account?</b></h4>
+ <p><i>You can play without fear of losing mmr. You can play with your lower elo friends and practice new things.</i></p>
+ <h4><b>- What are the payment methods?</b></h4>
+ <p><i>We currently accept Credit Cards for all of our accounts.</i></p>
+ <h4><b>- Do You Host Giveaways?</b></h4>
+ <p><i>Yes, we do! We do weekly account giveaways on out website.</i></p>
+ 
+ 
+</body>
+</html>
+  
